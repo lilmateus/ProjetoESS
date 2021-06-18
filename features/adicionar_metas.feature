@@ -28,3 +28,4 @@
  Then eu continuo na página “Inserir Metas”
  And eu vejo um alerta indicando que eu estou tentando inserir duas metas iguais
  And eu vejo as metas “Entender conceitos de requisitos”, “Especificar requisitos com qualidade”, e nenhuma outra associada à disciplina “Engenharia de Software”.
+ And me é solicitado editar as metas que eu estava tentando inserir
