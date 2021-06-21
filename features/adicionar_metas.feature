@@ -30,6 +30,12 @@
  And eu vejo as metas “Entender conceitos de requisitos”, “Especificar requisitos com qualidade”, e nenhuma outra associada à disciplina “Engenharia de Software”.
  And me é solicitado editar as metas que eu estava tentando inserir
  
+
  novo cenário CORRIGIDO
  
  mais um commit em main
+
+ novo cenário
+ 
+ commit 1 em desenvolvimento
+ um commit a mais em desenvolvimento (apenas para o roteiro)
